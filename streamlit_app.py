@@ -6,9 +6,9 @@ header = st.container()
 header.title("🤖Chatbot")
 
 header.markdown('''
-**CodeLlama: AI-powered chatbot companion🤖.**  
-**Answering your questions about code </>, machine learning💻, and AI🧠.**  
-**Helping you to learn and understand new concepts💡, Providing you with companionship🤝 and conversation🗯️.**  
+**➡️CodeLlama: AI-powered chatbot companion.**  
+**➡️Answering your questions about code, machine learning, and AI.**  
+**➡️Helping you to learn and understand new concepts, Providing you with companionship and conversation.**  
 ''')
 
 def load_llm():
